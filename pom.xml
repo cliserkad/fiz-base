@@ -16,7 +16,7 @@
             <plugin>
                 <groupId>dev.fiz</groupId>
                 <artifactId>fiz-maven-plugin</artifactId>
-                <version>0.9.0</version>
+                <version>0.10.8</version>
                 <executions>
                     <execution>
                         <goals>
